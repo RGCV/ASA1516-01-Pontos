@@ -1,5 +1,5 @@
 # Pontos de Articulação
-## 1º Projecto de ASA - 15'16
+### 1º Projecto de ASA - 15'16
 ---
 ##Descrição do Problema
 
@@ -10,10 +10,12 @@ pessoas podem partilhar, a informação pode ser transmitida a todas as pessoas 
 rede.
 
 Podem existir pessoas que são fundamentais na transmissão de informação. Uma
-pessoa _p_ é considerada fundamental se o único caminho para a partilha de
-informação entre outras duas pessoas _r_ e _s_ passa necessariamente por _p_
-(onde _p ≠ r_ e _p ≠ s_). A sua tarefa é identificar quais as pessoas
+pessoa *p* é considerada fundamental se o único caminho para a partilha de
+informação entre outras duas pessoas *p* e *s* passa necessariamente por *p*
+(onde *p ≠ r* e *p ≠ s*). A sua tarefa é identificar quais as pessoas
 fundamentais de uma rede.
+
+---
 
 Mais informação no [Enunciado do Projecto][1].
 
