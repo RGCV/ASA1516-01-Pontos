@@ -3,7 +3,7 @@
 
 ---
 
-## Descrição do Problema
+### Descrição do Problema
 
 A difusão de informação em redes sociais acontece através ad comunicação entre
 utilizadores. Quando uma pessoa recebe uma informação que considera
