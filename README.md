@@ -13,7 +13,7 @@ rede.
 
 Podem existir pessoas que são fundamentais na transmissão de informação. Uma
 pessoa *p* é considerada fundamental se o único caminho para a partilha de
-informação entre outras duas pessoas *p* e *s* passa necessariamente por *p*
+informação entre outras duas pessoas *r* e *s* passa necessariamente por *p*
 (onde *p ≠ r* e *p ≠ s*). A sua tarefa é identificar quais as pessoas
 fundamentais de uma rede.
 
