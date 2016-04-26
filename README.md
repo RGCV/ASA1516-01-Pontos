@@ -5,7 +5,7 @@
 
 ### Descrição do Problema
 
-A difusão de informação em redes sociais acontece através ad comunicação entre
+A difusão de informação em redes sociais acontece através da comunicação entre
 utilizadores. Quando uma pessoa recebe uma informação que considera
 interessante, disponibiliza essa informação aos seus conhecidos. Como todas as
 pessoas podem partilhar, a informação pode ser transmitida a todas as pessoas na
